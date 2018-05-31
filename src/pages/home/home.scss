@@ -1,3 +1,54 @@
-page-home {
+.submit-btn {
+    background: #990000;
+    //border-radius: 30px !important;
+    border: 2px solid #2B2B2B;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
 
+.home-tabs {
+    align-content: center;
+}
+
+.grid-slide {
+    height: 60px;
+    width: 100px;
+}
+
+.space {
+    width: 15px;
+}
+
+.colour1 {
+    background: #007a99;
+    border-radius: 30px !important;
+}
+
+.colour2 {
+    background: #00a3cc;
+    border-radius: 30px !important;
+}
+
+.colour3 {
+    background: #00ccff;
+    border-radius: 30px !important;
+}
+
+.colour4 {
+    background: #007a99;
+    border-radius: 30px !important;
+}
+
+   .colour5 {
+    background: #33d6ff;
+    border-radius: 30px !important;
+}
+
+// .home-background{
+//    background: #2B2B2B;
+// }
+.homemenu {
+    background: #007a99;
 }
